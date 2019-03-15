@@ -1,0 +1,126 @@
+<?xml version="1.0" standalone="no"?>
+<svg x="0" y="0" width="600" height="600" viewBox="-10 -10 620 620" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+	<rect x="0" y="0" width="600" height="600" fill="none" stroke="blue" />
+
+	<!-- def.svg -->
+	<defs>
+		<g id="base-kw">
+			<g stroke="black" stroke-width="3" fill="none" >
+				<path d="M 200 300 l 100 0" stroke-dasharray="0" />
+			</g>
+			<g stroke="black" stroke-width="3" >
+				<circle cx="200" cy="300" r="25" fill="black" />
+				<circle cx="300" cy="300" r="25" fill="white" />
+			</g>
+		</g>
+		<g id="kw">
+			<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#base-kw" x="-250" y="-300" fill="purple"/>
+		</g>
+		<g id="base-kwg">
+			<g stroke="black" stroke-width="3" fill="none" >
+				<path d="M 200 300 l 100 0" stroke-dasharray="0" />
+				<path d="M 300 300 l 100 0" stroke-dasharray="0" />
+			</g>
+			<g stroke="black" stroke-width="3" >
+				<circle cx="200" cy="300" r="25" fill="black" />
+				<circle cx="300" cy="300" r="25" fill="white" />
+				<circle cx="400" cy="300" r="25" fill="lime" />
+			</g>
+		</g>
+		<g id="kwg">
+			<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#base-kwg" x="-300" y="-300" fill="purple"/>
+		</g>
+		<g id="base-kwgk">
+			<g stroke="black" stroke-width="3" fill="none" >
+				<path d="M 200 300 l 100 0" stroke-dasharray="0" />
+				<path d="M 300 300 l 100 0" stroke-dasharray="0" />
+				<path d="M 400 300 l 100 0" stroke-dasharray="0" />
+			</g>
+			<g stroke="black" stroke-width="3" >
+				<circle cx="200" cy="300" r="25" fill="black" />
+				<circle cx="300" cy="300" r="25" fill="white" />
+				<circle cx="400" cy="300" r="25" fill="lime" />
+				<circle cx="500" cy="300" r="25" fill="black" />
+			</g>
+		</g>
+		<g id="kwgk">
+			<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#base-kwgk" x="-350" y="-300" fill="purple"/>
+		</g>
+		<g id="base-kwgy">
+			<g stroke="black" stroke-width="3" fill="none" >
+				<path d="M 200 300 l 100 0" stroke-dasharray="0" />
+				<path d="M 300 300 l 100 0" stroke-dasharray="0" />
+				<path d="M 400 300 l 100 0" stroke-dasharray="0" />
+			</g>
+			<g stroke="black" stroke-width="3" >
+				<circle cx="200" cy="300" r="25" fill="black" />
+				<circle cx="300" cy="300" r="25" fill="white" />
+				<circle cx="400" cy="300" r="25" fill="lime" />
+				<circle cx="500" cy="300" r="25" fill="yellow" />
+			</g>
+		</g>
+		<g id="kwgy">
+			<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#base-kwgy" x="-350" y="-300" fill="purple"/>
+		</g>
+		<g id="base-kwk">
+			<g stroke="black" stroke-width="3" fill="none" >
+				<path d="M 200 300 l 100 0" stroke-dasharray="0" />
+				<path d="M 300 300 l 100 0" stroke-dasharray="0" />
+			</g>
+			<g stroke="black" stroke-width="3" >
+				<circle cx="200" cy="300" r="25" fill="black" />
+				<circle cx="300" cy="300" r="25" fill="white" />
+				<circle cx="400" cy="300" r="25" fill="black" />
+			</g>
+		</g>
+		<g id="kwk">
+			<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#base-kwk" x="-300" y="-300" fill="purple"/>
+		</g>
+		<g id="base-wg">
+			<g stroke="black" stroke-width="3" fill="none" >
+				<path d="M 200 300 l 100 0" stroke-dasharray="0" />
+			</g>
+			<g stroke="black" stroke-width="3" >
+				<circle cx="200" cy="300" r="25" fill="white" />
+				<circle cx="300" cy="300" r="25" fill="lime" />
+			</g>
+		</g>
+		<g id="wg">
+			<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#base-wg" x="-250" y="-300" fill="purple"/>
+		</g>
+		<g id="base-wgk">
+			<g stroke="black" stroke-width="3" fill="none" >
+				<path d="M 200 300 l 100 0" stroke-dasharray="0" />
+				<path d="M 300 300 l 100 0" stroke-dasharray="0" />
+			</g>
+			<g stroke="black" stroke-width="3" >
+				<circle cx="200" cy="300" r="25" fill="white" />
+				<circle cx="300" cy="300" r="25" fill="lime" />
+				<circle cx="400" cy="300" r="25" fill="black" />
+			</g>
+		</g>
+		<g id="wgk">
+			<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#base-wgk" x="-300" y="-300" fill="purple"/>
+		</g>
+		<g id="base-wgy">
+			<g stroke="black" stroke-width="3" fill="none" >
+				<path d="M 200 300 l 100 0" stroke-dasharray="0" />
+				<path d="M 300 300 l 100 0" stroke-dasharray="0" />
+			</g>
+			<g stroke="black" stroke-width="3" >
+				<circle cx="200" cy="300" r="25" fill="white" />
+				<circle cx="300" cy="300" r="25" fill="lime" />
+				<circle cx="400" cy="300" r="25" fill="yellow" />
+			</g>
+		</g>
+		<g id="wgy">
+			<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#base-wgy" x="-300" y="-300" fill="purple"/>
+		</g>
+	</defs>
+	<!-- def.svg end -->
+
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kw" x="300" y="300" />
+	<circle cx="300" cy="300" r="10" fill="red" />
+
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no"?>
+<svg x="0" y="0" viewBox="150 250 600 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+	<g stroke="black" stroke-width="3" fill="none" >
+		<path d="M 200 300 l 100 0" stroke-dasharray="0" />
+		<path d="M 300 300 l 100 0" stroke-dasharray="0" />
+		<path d="M 400 300 l 100 0" stroke-dasharray="0" />
+		<path d="M 500 300 l 100 0" stroke-dasharray="0" />
+		<path d="M 600 300 l 100 0" stroke-dasharray="0" />
+	</g>
+
+	<g stroke="black" stroke-width="3" >
+		<circle cx="200" cy="300" r="25" fill="black" />
+		<circle cx="300" cy="300" r="25" fill="white" />
+		<circle cx="400" cy="300" r="25" fill="yellow" />
+		<circle cx="500" cy="300" r="25" fill="yellow" />
+		<circle cx="600" cy="300" r="25" fill="white" />
+		<circle cx="700" cy="300" r="25" fill="lime" />
+	</g>
+
+</svg>

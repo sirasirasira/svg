@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" width="1000px" height="800px" viewBox="0 0 2000 1000" ><path stroke='black' stroke-width='2' fill='none' d='M 1000 100 L 500 200' />
+<path stroke='black' stroke-width='2' fill='none' d='M 500 200 L 200 500' />
+<path stroke='black' stroke-width='2' fill='none' d='M 500 200 L 400 500' />
+<path stroke='black' stroke-width='2' fill='none' d='M 500 200 L 600 500' />
+<path stroke='black' stroke-width='2' fill='none' d='M 500 200 L 800 500' />
+<path stroke='black' stroke-width='2' fill='none' d='M 600 500 L 200 800' />
+<path stroke='black' stroke-width='2' fill='none' d='M 600 500 L 400 800' />
+<path stroke='black' stroke-width='2' fill='none' d='M 600 500 L 600 800' />
+<path stroke='black' stroke-width='2' fill='none' d='M 600 500 L 800 800' />
+<circle cx='500' cy='200' r='40' fill='white' stroke='white' />
+<circle cx='200' cy='500' r='60' fill='white' stroke='white' />
+<circle cx='400' cy='500' r='60' fill='white' stroke='white' />
+<circle cx='600' cy='500' r='60' fill='white' stroke='white' />
+<circle cx='800' cy='500' r='60' fill='white' stroke='white' />
+<circle cx='200' cy='800' r='60' fill='white' stroke='white' />
+<circle cx='400' cy='800' r='80' fill='white' stroke='white' />
+<circle cx='600' cy='800' r='60' fill='white' stroke='white' />
+<circle cx='800' cy='800' r='80' fill='white' stroke='white' />
+<path stroke='black' stroke-width='2' fill='none' d='M 480 200 L 520 200' />
+<circle cx='480' cy='200' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='520' cy='200' r='15' fill='white' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 160 500 L 240 500' />
+<circle cx='160' cy='500' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='200' cy='500' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='240' cy='500' r='15' fill='black' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 360 500 L 440 500' />
+<circle cx='360' cy='500' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='400' cy='500' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='440' cy='500' r='15' fill='white' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 560 500 L 640 500' />
+<circle cx='560' cy='500' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='600' cy='500' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='640' cy='500' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 760 500 L 840 500' />
+<circle cx='760' cy='500' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='800' cy='500' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='840' cy='500' r='15' fill='yellow' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 160 800 L 240 800' />
+<path stroke='black' stroke-width='2' fill='none' d='M 200 800 L 200 840' />
+<circle cx='160' cy='800' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='200' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='240' cy='800' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<circle cx='200' cy='840' r='15' fill='black' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 340 800 L 460 800' />
+<circle cx='340' cy='800' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='380' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='420' cy='800' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<circle cx='460' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 560 800 L 640 800' />
+<path stroke='black' stroke-width='2' fill='none' d='M 600 800 L 600 840' />
+<circle cx='560' cy='800' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='600' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='640' cy='800' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<circle cx='600' cy='840' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 740 800 L 860 800' />
+<circle cx='740' cy='800' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='780' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='820' cy='800' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<circle cx='860' cy='800' r='15' fill='yellow' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1000 100 L 1400 200' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1400 200 L 1200 500' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1200 500 L 1100 800' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1200 500 L 1300 800' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1400 200 L 1600 500' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1600 500 L 1600 800' />
+<circle cx='1400' cy='200' r='40' fill='white' stroke='white' />
+<circle cx='1200' cy='500' r='60' fill='white' stroke='white' />
+<circle cx='1100' cy='800' r='80' fill='white' stroke='white' />
+<circle cx='1300' cy='800' r='80' fill='white' stroke='white' />
+<circle cx='1600' cy='500' r='60' fill='white' stroke='white' />
+<circle cx='1600' cy='800' r='80' fill='white' stroke='white' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1380 200 L 1420 200' />
+<circle cx='1380' cy='200' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='1420' cy='200' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1160 500 L 1240 500' />
+<circle cx='1160' cy='500' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='1200' cy='500' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<circle cx='1240' cy='500' r='15' fill='white' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1040 800 L 1160 800' />
+<circle cx='1040' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='1080' cy='800' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<circle cx='1120' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='1160' cy='800' r='15' fill='black' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1240 800 L 1360 800' />
+<circle cx='1240' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='1280' cy='800' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<circle cx='1320' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='1360' cy='800' r='15' fill='yellow' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1560 500 L 1640 500' />
+<circle cx='1560' cy='500' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='1600' cy='500' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<circle cx='1640' cy='500' r='15' fill='yellow' stroke='black' stroke-width='2' />
+<path stroke='black' stroke-width='2' fill='none' d='M 1540 800 L 1660 800' />
+<circle cx='1540' cy='800' r='15' fill='black' stroke='black' stroke-width='2' />
+<circle cx='1580' cy='800' r='15' fill='white' stroke='black' stroke-width='2' />
+<circle cx='1620' cy='800' r='15' fill='limegreen' stroke='black' stroke-width='2' />
+<circle cx='1660' cy='800' r='15' fill='yellow' stroke='black' stroke-width='2' />
+<path stroke='red' stroke-width='8' fill='none' d='M 1020 720 L 1100 800' />
+<path stroke='red' stroke-width='8' fill='none' d='M 1180 720 L 1100 800' />
+<path stroke='red' stroke-width='8' fill='none' d='M 1020 880 L 1100 800' />
+<path stroke='red' stroke-width='8' fill='none' d='M 1180 880 L 1100 800' />
+<path stroke='red' stroke-width='8' fill='none' d='M 1520 720 L 1600 800' />
+<path stroke='red' stroke-width='8' fill='none' d='M 1680 720 L 1600 800' />
+<path stroke='red' stroke-width='8' fill='none' d='M 1520 880 L 1600 800' />
+<path stroke='red' stroke-width='8' fill='none' d='M 1680 880 L 1600 800' />
+<path stroke='black' stroke-width='2' stroke-dasharray='3' fill='none' d='M 1000 100 L 700 200' />
+<path stroke='black' stroke-width='2' stroke-dasharray='3' fill='none' d='M 1000 100 L 900 200' />
+<path stroke='black' stroke-width='2' stroke-dasharray='3' fill='none' d='M 1000 100 L 1100 200' />
+</svg>

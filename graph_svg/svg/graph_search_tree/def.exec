@@ -1,0 +1,15 @@
+# subgraph/ を svg の部品にするためのスクリプト
+
+
+t=$1 # target
+x=$2
+y=$3
+n=`echo $t | cut -d'.' -f1 | cut -d/ -f2 ` # name
+#echo $n
+
+echo '<g id="base-'$n'">'
+cat $t | head -n -2 | tail -n +4
+echo '</g>'
+echo '<g id="'$n'">'
+echo '	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#base-'$n'" x="'$x'" y="'$y'" fill="purple"/>'
+echo '</g>'

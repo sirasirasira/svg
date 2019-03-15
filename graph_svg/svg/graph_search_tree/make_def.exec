@@ -1,0 +1,21 @@
+f='def.svg' # file
+echo > $f
+sh def.exec subgraph/kw.svg   -250 -300   >> $f
+sh def.exec subgraph/kwg.svg  -300 -300   >> $f
+sh def.exec subgraph/kwy.svg  -300 -300   >> $f
+sh def.exec subgraph/kwgk.svg -350 -300   >> $f *
+sh def.exec subgraph/kwgy.svg -350 -300   >> $f
+sh def.exec subgraph/kwk.svg  -300 -300   >> $f
+
+sh def.exec subgraph/kg.svg   -250 -300   >> $f
+sh def.exec subgraph/kgw.svg  -300 -300   >> $f *
+sh def.exec subgraph/kgy.svg  -300 -300   >> $f
+                                          
+sh def.exec subgraph/wg.svg   -250 -300   >> $f
+sh def.exec subgraph/wgk.svg  -300 -300   >> $f *
+sh def.exec subgraph/wgy.svg  -300 -300   >> $f
+
+sh def.exec graph/g10.svg  -300 -300   >> $f
+
+sed -i '/^$/d' $f
+sed -i '/rect/d' $f

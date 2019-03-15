@@ -1,0 +1,26 @@
+<g stroke="black" stroke-width="3" >
+		<path d="M 800 10 L 400 80"  />
+		<path d="M 400 220 L 250 350"  />
+		<path d="M 250 490 L 200 650"  />
+		<path d="M 200 790 L 150 900" stroke-dasharray="9" />
+		<path d="M 250 490 L 650 650"  />
+		<path d="M 650 790 L 550 900" stroke-dasharray="9" />
+		<path d="M 650 790 L 750 900" stroke-dasharray="9" />
+		<path d="M 400 220 L 600 350"  />
+		<path d="M 800 10 L 1200 80"  />
+		<path d="M 1200 220 L 1000 350"  />
+		<path d="M 1000 490 L 1100 600"  />
+		<path d="M 1100 740 L 1100 900" stroke-dasharray="9" />
+		<path d="M 1200 220 L 1400 350"  />
+		<path d="M 1400 490 L 1350 600" stroke-dasharray="9" />
+		<path d="M 1400 490 L 1500 600" stroke-dasharray="9" />
+</g>
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kw" x="400" y="130" />
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kwg" x="250" y="400" />
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kwgk" x="200" y="700" />
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kwgy" x="650" y="700" />
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kwy" x="600" y="400" />
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kg" x="1200" y="130" />
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kgw" x="1000" y="400" />
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#g10" x="1100" y="650" />
+	<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kgy" x="1400" y="400" />

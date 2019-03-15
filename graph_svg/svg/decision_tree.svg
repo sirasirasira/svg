@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="no"?>
+<svg x="0" y="0" width="600" height="600" viewBox="-10 -10 620 620" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+	<rect x="0" y="0" width="600" height="600" fill="none" stroke="blue" />
+
+	<g stroke="burlywood" stroke-width="3" fill="none" >
+		<circle cx="080" cy="500" r="40" />
+		<circle cx="220" cy="500" r="40" />
+		<circle cx="380" cy="500" r="40" />
+		<circle cx="520" cy="500" r="40" />
+	</g>
+
+	<g stroke="burlywood" stroke-width="3" fill="none" >
+		<rect x="200" width="200" y="060" height="80"  />
+		<rect x="030" width="240" y="260" height="80"  />
+		<rect x="330" width="240" y="260" height="80"  />
+	</g>
+
+	<g text-anchor="middle" dominant-baseline="middle" stroke="white" stroke-width="1" fill="black" >
+		<text x="300" y="100" font-size="72px" > x &gt; 7 </text>
+		<text x="150" y="300" font-size="56px" > X は偶数 </text>
+		<text x="450" y="300" font-size="56px" > X は奇数 </text>
+
+		<text x="080" y="500" font-size="56px" >Yes</text>
+		<text x="220" y="500" font-size="56px" >No</text>
+		<text x="380" y="500" font-size="56px" >Yes</text>
+		<text x="520" y="500" font-size="56px" >No</text>
+	</g>
+
+	<g stroke="brown" stroke-width="3" fill="none" >
+		<path d="M 380 150 l 0 100" stroke-dasharray="0" />
+		<path d="M 220 150 l 0 100" stroke-dasharray="5" />
+		<path d="M 520 350 l 0 100" stroke-dasharray="0" />
+		<path d="M 380 350 l 0 100" stroke-dasharray="5" />
+		<path d="M 220 350 l 0 100" stroke-dasharray="0" />
+		<path d="M 080 350 l 0 100" stroke-dasharray="5" />
+
+		<path d="M 380 250 l -10 -10 l 10 10 l 10 -10" />
+		<path d="M 220 250 l -10 -10 l 10 10 l 10 -10" />
+		<path d="M 520 450 l -10 -10 l 10 10 l 10 -10" />
+		<path d="M 380 450 l -10 -10 l 10 10 l 10 -10" />
+		<path d="M 220 450 l -10 -10 l 10 10 l 10 -10" />
+		<path d="M 080 450 l -10 -10 l 10 10 l 10 -10" />
+	</g>
+
+	<g text-anchor="middle" dominant-baseline="middle" stroke="white" stroke-width="1" fill="brown" >
+		<text x="180" y="200" font-size="32px" >false</text>
+		<text x="420" y="200" font-size="32px" >true</text>
+	</g>
+
+</svg>
